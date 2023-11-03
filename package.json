@@ -1,0 +1,26 @@
+{
+  "publisher": "JahelCuadrado",
+  "name": "default-pack-jc",
+  "displayName": "Default Extension Pack",
+  "description": "A set of extensions for any type of project.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "aaron-bond.better-comments",
+    "adpyke.codesnap",
+    "usernamehw.errorlens",
+    "shinotatwu-ds.file-tree-generator",
+    "kenhowardpdx.vscode-gist",
+    "tyriar.lorem-ipsum",
+    "techer.open-in-browser",
+    "quicktype.quicktype",
+    "esbenp.prettier-vscode",
+    "gruntfuggly.todo-tree",
+    "dotjoshjohnson.xml"
+  ]
+}
