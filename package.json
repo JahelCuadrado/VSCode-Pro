@@ -1,9 +1,10 @@
 {
   "publisher": "JahelCuadrado",
-  "name": "default-pack-jc",
-  "displayName": "Default Extension Pack",
+  "name": "vscodepro",
+  "displayName": "VSCode pro",
   "description": "A set of extensions for any type of project.",
   "version": "0.0.1",
+  "icon": "",
   "engines": {
     "vscode": "^1.84.0"
   },
@@ -21,6 +22,7 @@
     "quicktype.quicktype",
     "esbenp.prettier-vscode",
     "gruntfuggly.todo-tree",
-    "dotjoshjohnson.xml"
+    "dotjoshjohnson.xml",
+    "alefragnani.project-manager"
   ]
 }
