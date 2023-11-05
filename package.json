@@ -1,15 +1,25 @@
 {
   "publisher": "JahelCuadrado",
   "name": "vscodepro",
-  "displayName": "VSCode pro",
+  "displayName": "VSCode Pro",
   "description": "A set of extensions for any type of project.",
   "version": "0.0.1",
-  "icon": "",
+  "icon": "assets/vscode.png",
   "engines": {
     "vscode": "^1.84.0"
   },
   "categories": [
     "Extension Packs"
+  ],
+  "keywords": [
+    "extension pack",
+    "project",
+    "explorer",
+    "extensions",
+    "vscode",
+    "vscode pro",
+    "vscode ide",
+    "ide"
   ],
   "extensionPack": [ 
     "aaron-bond.better-comments",
@@ -23,6 +33,7 @@
     "esbenp.prettier-vscode",
     "gruntfuggly.todo-tree",
     "dotjoshjohnson.xml",
-    "alefragnani.project-manager"
+    "alefragnani.project-manager",
+    "bierner.markdown-preview-github-styles"
   ]
 }
